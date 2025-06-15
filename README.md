@@ -4,9 +4,9 @@ This is a deep learning-based **Accident Detection System** built using **Flask*
 
 ## 🎥 Demo Preview
 
-![Accident Detection Demo](Accident Detection System.gif)
+![Accident Detection Demo](demo-preview.gif)
 
-> This animated preview shows how the system detects accidents in real-time.
+*Real-time accident detection system in action*
 
 ## 🧠 Models Used
 
