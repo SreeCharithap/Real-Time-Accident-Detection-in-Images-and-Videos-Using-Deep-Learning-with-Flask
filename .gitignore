@@ -1,0 +1,17 @@
+# Ignore virtual environment
+venv1/
+
+# Ignore raw uploaded files
+uploads/
+
+# Ignore unused model data
+models/saved/
+
+# Ignore large folders
+Images/
+videos/
+
+# Ignore system files
+*.pyc
+__pycache__/
+.DS_Store
