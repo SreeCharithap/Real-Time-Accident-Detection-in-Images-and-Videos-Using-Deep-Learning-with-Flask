@@ -2,6 +2,15 @@
 
 This is a deep learning-based **Accident Detection System** built using **Flask**, **PyTorch**, and advanced CNN-LSTM architectures. It can classify both images and videos as either containing an "Accident" or "Non Accident".
 
+## 🎥 Demo Video
+
+<video width="640" height="360" controls>
+  <source src="Accident Detection System.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+> You can also [download the demo video](Accident%20Detection%20System.mp4) to view it locally.
+
 ## 🧠 Models Used
 
 ### 1. `image_classifier.py`
@@ -41,5 +50,5 @@ It returns predictions along with confidence scores and visualizations where app
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/accident-detection-system.git 
+   git clone https://github.com/yourusername/accident-detection-system.git    
    cd accident-detection-system
